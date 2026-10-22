@@ -1,0 +1,10 @@
+*
+!/nssi_model/
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/test_model.py
+!/nssi_model/__init__.py
+!/nssi_model/data.py
+!/nssi_model/model.py
+!/nssi_model/evaluate.py
